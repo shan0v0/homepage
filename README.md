@@ -1,5 +1,5 @@
-## homepage
-# Self-introduction:
+# homepage
+## Self-introduction:
 **Name:** Shan Ye, 闪晔 \
 **Birth:** 1999.10.05 \
 **School:** Peking University, 北京大学 \
